@@ -1,0 +1,21 @@
+h1{
+  outline: 1px solid  yellow;
+  text-align: center;
+}
+.caja{
+  /*outline es una ayuda visual*/
+/*  outline:1px solid red;*/
+  padding: 15px;
+  width: 420px;
+  border: 1px solid #999;
+  margin-left:8px;
+  box-sizing: border-box;
+  float:left;  /* debo tener cuidado de mi contenedor*/
+}
+img{
+  outline: 1px solid blue;
+  max-width: 100%;
+}
+p{
+  outline: 1px solid orange;
+}
